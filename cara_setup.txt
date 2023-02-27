@@ -1,0 +1,6 @@
+1. Install Docker dan Docker-Compose
+2. Jalankan perintah di CMD 
+   ==> docker-compose up
+3. Buka browser pada {host}:3000
+
+== Cek README.md ==

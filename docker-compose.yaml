@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  frontend_pdp:
+    build: ./frontend
+    ports:
+      - 3000:3000
+  backend_pdp:
+    build: ./backend
+    ports:
+      - 8080:8080
